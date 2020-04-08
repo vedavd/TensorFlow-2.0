@@ -1,5 +1,5 @@
 # TensorFlow-2.0
-TensorFlow 2.0 Use Cases
+TensorFlow 2.0 Projects
 
 
 
@@ -21,3 +21,26 @@ The Model is built using a single hidden layer
 #### Step 5:Train the Model
 #### Step 6:Model Evaluation
 #### Step 7:Model Prediction
+
+
+# Bank Customer Churn Analysis
+
+The Model is built to predict Bank Customer Churn 
+ 
+## Code: TF-2-Bank Customer Churn
+
+## Dataset used: Churn_Modelling
+
+#### Load the Dataset
+#### Train Test Data Creation
+#### Feature Scaling
+####Build ANN
+###### Input Layer
+###### One hidden layer with 128 neurons and relu activation function
+###### Output layer with 1 Node and sigmoid activation function
+#### Compile Model
+#### Fit the Model
+#### Model Prediction
+#### Model Evaluation
+###### Confusion Matrix
+###### Accuracy Score
