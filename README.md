@@ -34,7 +34,7 @@ The Model is built to predict Bank Customer Churn
 #### Load the Dataset
 #### Train Test Data Creation
 #### Feature Scaling
-####Build ANN
+#### Build ANN
 ###### Input Layer
 ###### One hidden layer with 128 neurons and relu activation function
 ###### Output layer with 1 Node and sigmoid activation function
