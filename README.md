@@ -44,3 +44,7 @@ The Model is built to predict Bank Customer Churn
 #### Model Evaluation
 ###### Confusion Matrix
 ###### Accuracy Score
+
+# TF-3-Plotting Learning Curve and Confusion Matrix
+
+# TF-4-Plotting Learning Curve and Confusion Matrix
