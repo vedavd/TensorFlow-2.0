@@ -55,7 +55,7 @@ The Model is built to predict Bank Customer Churn
 ###### Inbuilt
 
 ### Python Code Files:
-####### T4-2D-CNN-Cifar10-Image Classification.ipynb
+###### T4-2D-CNN-Cifar10-Image Classification.ipynb
 
 ### Sections:
 ###### importing libraries
