@@ -48,3 +48,19 @@ The Model is built to predict Bank Customer Churn
 # TF-3-Plotting Learning Curve and Confusion Matrix
 
 # TF-4-Plotting Learning Curve and Confusion Matrix
+
+# Image classification using 2D-CNN Network
+
+### Dataset used: 
+###### Inbuilt
+
+### Python Code Files:
+####### T4-2D-CNN-Cifar10-Image Classification.ipynb
+
+### Sections:
+###### importing libraries
+###### importing data
+###### Build CNN Model
+###### Train CNN Model
+###### Plot Accuracy and Loss
+###### Plot Confusion Matrix
